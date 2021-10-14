@@ -1,4 +1,4 @@
-package cards2;
+package BillfoldTester;
 
 /** @author sak5680 */
 public class CallingCard extends Card{
